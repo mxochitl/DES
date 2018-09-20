@@ -2,6 +2,7 @@
 Milena Gonzalez
 Cryptography4230 
 
+<h1>Testing</h1>
 To run my code on your local machine, open 2 separate terminals. Run the server.py file and the client.py file respectively. These will provide a command line interface. The terminal acting as the client will prompt you for input (the initial input doesn't matter). You will be asked to input an 8-bit binary string. The client will then encrypt the text and send it off to the server which will then decrypt it and send it back. The client code will prompt you for more input unless the input is 'q'. All of my implementation of the DES algorithm is in the DES.py file.
 
 <h1>Implementation</h1>
